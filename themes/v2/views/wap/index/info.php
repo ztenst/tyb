@@ -7,15 +7,15 @@
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta content="black" name="apple-mobile-web-app-status-bar-style">
     <meta content="telephone=no" name="format-detection">
-    <meta name="keywords" content="服装网站,服装模板,网站模板,集团模板网站,企业网站模板,集团网站,企业网站">
-    <meta name="description" content="模板网站生成">
+    <meta name="keywords" content="常州市第一中学12届体育部">
+    <meta name="description" content="常州市第一中学12届体育部">
     <meta name="author" content="UEMO">
     <link type="text/css" href="<?=Yii::app()->theme->baseUrl?>/static/wap/css/font-awesome.min.css" rel="stylesheet">
     <link type="text/css" href="<?=Yii::app()->theme->baseUrl?>/static/wap/css/bxslider.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="<?=Yii::app()->theme->baseUrl?>/static/wap/css/animate.min.css">
     <link type="text/css" href="<?=Yii::app()->theme->baseUrl?>/static/wap/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="<?=Yii::app()->theme->baseUrl?>/static/wap/css/4093m.css">
-    <title>mo004_4093 - 服装／企业集团类网站</title>
+    <title>常州市第一中学12届体育部</title>
     <script>
     if (window.location.origin.indexOf('uemo.net') != -1) {
         document.domain = "uemo.net";
