@@ -17,12 +17,13 @@
     <link rel="stylesheet" type="text/css" href="<?=Yii::app()->theme->baseUrl?>/static/wap/css/4093m.css">
     <title>常州市第一中学12届体育部</title>
     <script>
-    if (window.location.origin.indexOf('uemo.net') != -1) {
-        document.domain = "uemo.net";
-    }
-    if (window.location.origin.indexOf('jsmo.xin') != -1) {
-        document.domain = "jsmo.xin";
-    }
+    // if (window.location.origin.indexOf('uemo.net') != -1) {
+    //     document.domain = "uemo.net";
+    // }
+    // if (window.location.origin.indexOf('jsmo.xin') != -1) {
+    //     document.domain = "jsmo.xin";
+    // }
+    a[href="http://www.uemo.net"]{display:none}
     </script>
 </head>
 
