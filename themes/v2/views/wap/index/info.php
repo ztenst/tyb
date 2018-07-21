@@ -102,7 +102,7 @@
     <script type="text/javascript">
     $(function() { new WOW({ scrollContainer: ".scrollView" }).init(); })
     </script>
-    <script type="text/javascript" src="<?=Yii::app()->theme->baseUrl?>/static/wap/js/org.min.js" data-main="IndexMain"></script>
+    <!-- <script type="text/javascript" src="<?=Yii::app()->theme->baseUrl?>/static/wap/js/org.min.js" data-main="IndexMain"></script> -->
 <!--     <div class="hide">
         <script src="http://resources.jsmo.xin/templates/upload/4093/4093.js" type="text/javascript"></script>
     </div> -->
